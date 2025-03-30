@@ -1,6 +1,6 @@
-# Problem Solving
+# CS_Assignment
 
-이 저장소는 문제 해결(Problem Solving) 관련 코드와 풀이를 모아둔 곳입니다.
+이 저장소는 컴퓨터 구조 과제 관련 파일을 올려놓은 저장소입니다.
 
 ## 프로젝트 구조
 - `src/` : 문제 풀이 코드 저장
