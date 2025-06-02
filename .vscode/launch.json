@@ -29,7 +29,7 @@
       "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
       "args": [],
       "stopAtEntry": false,
-      "cwd": "C:/Users/HamDaeyoung/Desktop/Problem solving",
+      "cwd": "c:/Users/HamDaeyoung/Desktop/University-Assignment/algorithm",
       "environment": [],
       "externalConsole": false,
       "MIMode": "gdb",

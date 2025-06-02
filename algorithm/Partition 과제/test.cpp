@@ -1,3 +1,4 @@
+//2021203041 소프트웨어학부 함대영
 #include <iostream>
 #include <algorithm>
 #include <utility>
@@ -6,6 +7,7 @@
 #include <climits>
 #include <fstream>
 using namespace std;
+
 
 int idx = 0;
 pair<int, int> arr[10002];       // (값, 번호)
@@ -133,6 +135,7 @@ void method2(){
 
 }
 int main(){
+    
     cin >> n >> k;
     for (int i = 0; i < n; i++) {
         int value;
